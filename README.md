@@ -8,7 +8,7 @@ Welcome to the **FlareCloud Login Tool**! This is a compact, high-performance CL
 
 1. **Get your token files**: Put your Minecraft token files (`.txt` files containing `eyJ...` tokens) directly into this folder.
 2. **Run the tool**: 
-   - Double-click **`Run Me.bat`** (or execute **`mc_token.exe`** if you compiled it).
+   - Double-click **`Run Me.bat`** (or execute **`FlareCloud Login Tool.exe`** if you compiled it).
 3. **Select & Inject**:
    - Use your **Arrow Keys** (↑/↓) to select the account you want to use.
    - Press **Enter** to verify and inject it!
@@ -47,7 +47,8 @@ Welcome to the **FlareCloud Login Tool**! This is a compact, high-performance CL
 * The tool will automatically delete this dead file so you don't try it again. Grab a fresh token!
 
 #### ❓ Compilation failed with "Access Denied" (WinError 5)
-* Close any instances of `mc_token.exe` that are running in your Command Prompt and re-run `Build Secure EXE.bat`.
+* Close any instances of `FlareCloud Login Tool.exe` that are running in your Command Prompt and re-run `Build Secure EXE.bat`.
+
 
 ---
 
