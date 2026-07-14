@@ -24,7 +24,6 @@ Welcome to the **FlareCloud Login Tool**! This is a compact, high-performance CL
 * **🗑️ Auto-Purge Dead Tokens**: 
   - Automatically deletes token `.txt` files that have expired timestamps.
   - Automatically deletes token `.txt` files if the Minecraft API rejects them during verification.
-* **🔒 Native C compilation (Executable)**: Can be compiled to a native Windows machine-code `.exe` that runs standalone and blocks reverse engineering completely.
 
 ---
 
